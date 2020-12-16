@@ -2,6 +2,7 @@
 
 **Run applicaton**<br />
 ```
+docker-compose up
 - cd recive
     - node index.js
 - cd process
